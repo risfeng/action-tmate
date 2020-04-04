@@ -33,7 +33,7 @@ To get the connection string, just open the `Checks` tab in your Pull Request an
 
 ![alt text](./docs/checks-tab.png "Logo Title Text 1")
 
-## Continue a workflow
+## Continue a workflow 
 
 If you want to continue a workflow and you are inside a tmate session, just create a empty file with the name `continue` either in the root directory or in the project directory by running `touch continue` or `sudo touch /continue`.
 
